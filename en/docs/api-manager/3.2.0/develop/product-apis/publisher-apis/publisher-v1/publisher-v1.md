@@ -15,4 +15,4 @@ template: templates/redoc.html
 ---
 
 <redoc spec-url='../../../../develop/product-apis/publisher-apis/publisher-v1/publisher-v1.yaml'></redoc>
-<script src="https://cdn.redoc.ly/redoc/latest/bundles/redoc.standalone.js"> </script>
+<script src="https://cdn.redoc.ly/redoc/v2.5.4/bundles/redoc.standalone.js"> </script>
