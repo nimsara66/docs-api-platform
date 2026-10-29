@@ -14,5 +14,5 @@ content_type: "reference"
 template: templates/redoc.html
 ---
 
-<redoc spec-url='devops-v0.yaml'></redoc>
+<redoc spec-url='../devops-v0.yaml'></redoc>
 <script src="https://cdn.redoc.ly/redoc/v2.5.4/bundles/redoc.standalone.js"> </script>
